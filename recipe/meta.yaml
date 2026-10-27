@@ -1,5 +1,5 @@
 {% set version = "1.1.4" %}
-{% set build = 2 %}
+{% set build = 3 %}
 
 package:
   name: knem-headers
